@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89035561301",
+    "project_id": "miniproject2-c2830",
+    "storage_bucket": "miniproject2-c2830.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89035561301:android:b74310673af2e652a6b7dc",
+        "android_client_info": {
+          "package_name": "com.example.tournament_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWvqYVxiE3jfrqamGTnluIHNpjMeMkvF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

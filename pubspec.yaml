@@ -1,0 +1,15 @@
+name: tournament_tracker
+description: Community Sports Tournament Tracker
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.1.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: ^5.1.0
+
+flutter:
+  uses-material-design: true
